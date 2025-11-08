@@ -11,7 +11,7 @@
   </p>
   <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Digital-7+Mono&color=FFFFFF&size=18&center=true&width=1000&lines=****************************************************************************************" /></p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=OOBBFF&center=true&vCenter=true&width=700&lines=Welcome+to+NST+SWC+⚡;Code.+Create.+Conquer.;We+Are+Building+The+Future+Of+Developers!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BBFF&center=true&vCenter=true&width=700&lines=Welcome+to+NST+SWC+⚡;Code.+Create.+Conquer.;We+Are+Building+The+Future+Of+Developers!">
 </p>
 
 ---
