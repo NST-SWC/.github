@@ -23,9 +23,11 @@
 ---
 
 ### 🧑‍💻 About Us 🧑‍💻
-**Newton School of Technology — SWC (Student Web Club)** is a community of dreamers, coders, and creators from **Bangalore**, building cool tech, hosting hackathons, and helping students grow into real-world developers.
+**Newton School of Technology — SWC (Student Web Club)** is a community of dreamers, coders,
+and creators from **Bangalore**,building cool tech, hosting hackathons, and helping student
+grow into real-world developers.
 
-> 🚀 _We believe code is art, and open source is the gallery._  <img src="https://readme-typing-svg.herokuapp.com?font=Digital-7+Mono&color=00FFAA&size=35&center=true&vCenter=true&width=800&lines=🚀+_We believe+code+is+art,+and+open+source+is+the+gallery._ " />
+> 🚀 _We believe code is art, and open source is the gallery.
 ## 🤔 Question of the Day ❓
 
 <div align="center">
